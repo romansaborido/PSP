@@ -1,0 +1,111 @@
+The Shawshank Redemption;1994
+Pulp Fiction;1994
+Forrest Gump;1994
+The Lion King;1994
+Léon: The Professional;1994
+The Godfather;1972
+The Godfather Part II;1974
+The Dark Knight;2008
+12 Angry Men;1957
+Schindler's List;1993
+The Lord of the Rings: The Return of the King;2003
+Fight Club;1999
+Star Wars: Episode V - The Empire Strikes Back;1980
+Goodfellas;1990
+The Matrix;1999
+One Flew Over the Cuckoo's Nest;1975
+Se7en;1995
+The Silence of the Lambs;1991
+City of Lights;1931
+It's a Wonderful Life;1946
+Life Is Beautiful;1997
+Saving Private Ryan;1998
+Interstellar;2014
+Spirited Away;2001
+The Green Mile;1999
+Parasite;2019
+The Prestige;2006
+The Departed;2006
+Gladiator;2000
+The Usual Suspects;1995
+Casablanca;1942
+The Pianist;2002
+Terminator 2: Judgment Day;1991
+Back to the Future;1985
+Whiplash;2014
+Modern Times;1936
+Raiders of the Lost Ark;1981
+Rear Window;1954
+Psycho;1960
+Apocalypse Now;1979
+Memento;2000
+The Great Dictator;1940
+The Lives of Others;2006
+Django Unchained;2012
+WALL-E;2008
+Paths of Glory;1957
+Sunset Boulevard;1950
+Avengers: Infinity War;2018
+Avengers: Endgame;2019
+Spider-Man: Into the Spider-Verse;2018
+Joker;2019
+Coco;2017
+Dunkirk;2017
+Blade Runner 2049;2017
+La La Land;2016
+Mad Max: Fury Road;2015
+Inside Out;2015
+The Grand Budapest Hotel;2014
+12 Years a Slave;2013
+Gravity;2013
+Her;2013
+The Wolf of Wall Street;2013
+Argo;2012
+The Artist;2011
+Toy Story 3;2010
+Up;2009
+Gran Torino;2008
+Slumdog Millionaire;2008
+Juno;2007
+There Will Be Blood;2007
+Pan's Labyrinth;2006
+V for Vendetta;2006
+Crash;2004
+Eternal Sunshine of the Spotless Mind;2004
+Finding Nemo;2003
+Kill Bill: Vol. 1;2003
+Oldboy;2003
+Amélie;2001
+A Beautiful Mind;2001
+Shrek;2001
+Crouching Tiger, Hidden Dragon;2000
+Requiem for a Dream;2000
+American Beauty;1999
+The Sixth Sense;1999
+Shakespeare in Love;1998
+Titanic;1997
+Good Will Hunting;1997
+Fargo;1996
+Braveheart;1995
+Toy Story;1995
+The Shawshank Redemption;1994
+Jurassic Park;1993
+Reservoir Dogs;1992
+The Silence of the Lambs;1991
+Dances with Wolves;1990
+Dead Poets Society;1989
+Rain Man;1988
+Full Metal Jacket;1987
+Platoon;1986
+Amadeus;1984
+Star Wars: Episode VI - Return of the Jedi;1983
+E.T. the Extra-Terrestrial;1982
+Raging Bull;1980
+Alien;1979
+The Deer Hunter;1978
+Star Wars;1977
+Rocky;1976
+Jaws;1975
+The Sting;1973
+A Clockwork Orange;1971
+Patton;1970
