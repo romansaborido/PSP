@@ -1,0 +1,10 @@
+5.16 Alumno1
+6.02 Alumno2
+6.17 Alumno3
+5.04 Alumno4
+6.01 Alumno5
+5.74 Alumno6
+3.26 Alumno7
+6.29 Alumno8
+5.42 Alumno9
+4.96 Alumno10
